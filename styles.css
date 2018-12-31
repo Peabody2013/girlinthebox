@@ -1,0 +1,50 @@
+@charset "utf-8";
+/* CSS Document */
+/*desktop veiw*/
+h1 {
+	color: #AD26A0;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 160px;
+	font-weight: 70;
+}
+/*tabetveiw*/
+@media (max-width:768px){
+	
+	h1{
+		color: #1C3F6F;
+
+	}
+
+
+}
+/*mobile veiw*/
+@media (max-width:400px){
+	
+	h1{
+		color: #D43033;
+
+	}
+
+
+}
+hi{ 
+	align-content: center;
+	
+	
+}
+Body {
+	background-color: #D12427;
+}
+
+
+div{
+	background-color: beige;
+	  color:yellow;
+	font-size: 80px;
+	font-style: italic;
+	padding-left: 200px;
+	padding-top: 200px;
+}
+.box-1(
+    
+)
